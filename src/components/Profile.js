@@ -18,7 +18,7 @@ const Profile = () => {
         <Grid item xs={12} md={6} sx={{ textAlign: 'center' }}>
           <Box
             component="img"
-            src="/assets/profile-pic.png"
+            src="/assets/Godwin_linkedin.jpg"
             alt="Profile"
             sx={{
               width: { xs: '275px', md: '400px' },
@@ -44,7 +44,7 @@ const Profile = () => {
               variant="outlined"
               color="primary"
               sx={{ mr: 2 }}
-              href="./assets/Resume_Godwin.pdf"
+              href="./assets/Godwin_Resume_MERNstack.pdf"
               target="_blank"
             >
               Download CV
